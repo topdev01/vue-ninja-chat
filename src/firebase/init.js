@@ -2,12 +2,16 @@ import firebase from 'firebase'
 import firestore from 'firebase/firestore'
 
   var config = {
-    apiKey: "AIzaSyCeKFp2KhYXUOOxbqz4voV2iEWpaZsjrnw",
-    authDomain: "udemy-ninja-chat-8d016.firebaseapp.com",
-    databaseURL: "https://udemy-ninja-chat-8d016.firebaseio.com",
-    projectId: "udemy-ninja-chat-8d016",
-    storageBucket: "udemy-ninja-chat-8d016.appspot.com",
-    messagingSenderId: "147143825490"
+    
+    apiKey: "AIzaSyDTQM3TKP1FyjM0aiyLaxaOGP66CnLGxvQ",
+    authDomain: "udemy-ninja-chat-82744.firebaseapp.com",
+    databaseURL: "https://udemy-ninja-chat-82744.firebaseio.com",
+    projectId: "udemy-ninja-chat-82744",
+    storageBucket: "udemy-ninja-chat-82744.appspot.com",
+    messagingSenderId: "373229095181"
+
+  
+  
   };
   const firebaseApp = firebase.initializeApp(config);
 
